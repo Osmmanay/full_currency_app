@@ -84,3 +84,4 @@ The goal of the app was not only to display currency data, but also to strengthe
 📬 Contact
 
 Osman Ay
+LinkedIn : www.linkedin.com/in/osman-ay-569694174
